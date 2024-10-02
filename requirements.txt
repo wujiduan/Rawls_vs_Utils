@@ -2,7 +2,4 @@ numpy
 pandas
 matplotlib
 pillow
-tensorboard
-jupyter
-ipywidgets
 pickle
