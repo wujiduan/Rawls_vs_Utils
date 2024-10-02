@@ -15,7 +15,7 @@ import heapq
 
 
 
-test = pd.read_csv('/Users/jwu/Desktop/welfare_max_min/read_sipp/sipp_2014_wave_1.csv')
+test = pd.read_csv('read_sipp/sipp_2014_wave_1.csv')
 incomes = np.round(test['INCOME'].values)
 print("population size:", len(incomes))
 print("max income:", max(incomes)) # 1140011
