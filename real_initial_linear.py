@@ -444,8 +444,8 @@ print("initial_values:", initial_value)
 # agent_num = len(incomes)
 agent_num = len(initial_value)
 print("agent num:", agent_num)
-homo_decay_ub = 60
-homo_decay_lb = 10
+homo_decay_ub = 6000
+homo_decay_lb = 100
 # f^- > (N-1)*g^+ ensures the positivity
 homo_return_lb = homo_decay_ub * (agent_num + 1000)
 homo_return_ub = homo_return_lb + 40 * agent_num
