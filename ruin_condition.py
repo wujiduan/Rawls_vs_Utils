@@ -415,7 +415,7 @@ def run_comparison_fast(sample_num, signature, agent_num, return_ubs, return_lbs
 
 
 
-test = pd.read_csv('/Users/jwu/Desktop/welfare_max_min/read_sipp/sipp_2014_wave_1.csv')
+test = pd.read_csv('read_sipp/sipp_2014_wave_1.csv')
 incomes = np.round(test['INCOME'].values)
 print("population size:", len(incomes))
 print("max income:", max(incomes)) # 1140011
