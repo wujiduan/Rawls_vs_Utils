@@ -4,8 +4,13 @@
 ### All the required packages to run the codes are in "requirement.txt".
 
 * "read_sipp" folder contains the cleaned data.
-* "real_initial_linear.ipynb" generates Figure 1.(a) in the paper.
+* "real_initial_linear.py" generates Figure 1.(a) in the paper. 
 * "heterogeneity_compare.py" generates Figure 1.(b) in the paper.
-* "ruin_condition.ipynb" generates Figure 2 in Appendix "Policy comparison under a ruin condition".
-* "concave_functions.ipynb" generates Figure 3 in Appendix "Beyond a Matthew effect: modeling variations of the treatment effect function".
+* "ruin_condition.py" generates Figure 2 in Appendix "Policy comparison under a ruin condition".
+* "concave_functions.py" generates Figure 3 in Appendix "Beyond a Matthew effect: modeling variations of the treatment effect function".
 * "utility_funcs.py" contains code for computing gini coefficient, which is not presented in the paper.
+
+### We keep the jupyter notebooks for part of our codes for interested readers.
+* "real_initial_linear.ipynb"
+* "ruin_condition.ipynb"
+* "concave_functions.ipynb"
