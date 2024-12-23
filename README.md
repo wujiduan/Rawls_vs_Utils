@@ -1,5 +1,5 @@
 # Rawls_vs_Utils
-## This is a repository containing codes to produce plots in "Policy Design in Long-run Welfare Dynamics"
+## This is a repository containing codes to produce plots in paper _"Policy Design in Long-run Welfare Dynamics"_
 
 ### All the required packages to run the codes are in "requirement.txt".
 
