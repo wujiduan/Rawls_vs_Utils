@@ -10,7 +10,3 @@
 * "concave_functions.py" generates Figure 3 in Appendix "Beyond a Matthew effect: modeling variations of the treatment effect function".
 * "utility_funcs.py" contains code for computing gini coefficient, which is not presented in the paper.
 
-### We keep the jupyter notebooks in the "notebooks" folder for part of our codes for readers who hope to play with the codes interactively.
-* "real_initial_linear.ipynb"
-* "ruin_condition.ipynb"
-* "concave_functions.ipynb"
